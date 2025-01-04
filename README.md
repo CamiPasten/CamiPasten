@@ -9,10 +9,9 @@
 ## 📬 Contacto
 [![Gmail](https://img.shields.io/badge/Gmail-B4FF65?style=plastic&logo=gmail&logoColor=FF0000&logoWidth=40)](mailto:camipasten.2002@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white&logoWidth=40)](https://www.linkedin.com/in/camila-pastén-barros/)
+[![Pagina](https://img.shields.io/badge/GitHub%20Pages-black?style=plastic&logo=githubpages&logoColor=white&logoWidth=40&labelColor=black)](https://camipasten.github.io/pagina/)
 
 ---
-
-## ⚡ Tecnologías más usadas
 
 ### 🚀 Lenguajes
 ![Python](https://img.shields.io/badge/Python-gold?style=plastic&logo=python&logoColor=0171FF&logoWidth=40&labelColor=gold)
