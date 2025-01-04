@@ -9,6 +9,8 @@
 ## 📬 Contacto
 [![Email]([![Gmail](https://img.shields.io/badge/Gmail-Contact-blue?style=flat&logo=gmail&logoColor=red&labelColor=white)](mailto:camipasten.2002@gmail.com))]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/camila-pastén-barros/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Visit%20Now-black?style=flat&logo=githubpages&logoColor=white)](https://camipasten.github.io/)
+
 
 ---
 
