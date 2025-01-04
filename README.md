@@ -7,16 +7,16 @@
 ---
 
 ## 📬 Contacto
-[![Email](https://img.shields.io/badge/Email-camipasten.2002@gmail.com-red?style=flat&logo=gmail)](mailto:camipasten.2002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CamilaPastén-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/camila-pastén-barros/)
+[![Email]([![Gmail](https://img.shields.io/badge/Gmail-Contact-blue?style=flat&logo=gmail&logoColor=red&labelColor=white)](mailto:camipasten.2002@gmail.com))]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/camila-pastén-barros/)
 
 ---
 
 ## ⚡ Tecnologías más usadas
 
 ### 🚀 Lenguajes
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
-![R](https://img.shields.io/badge/-RStudio-lightblue?style=flat&logo=rstudio)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-blue?style=flat&logo=r&logoColor=white)
 
 ### 🧩 Herramientas y Frameworks
 ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat&logo=powerbi)
