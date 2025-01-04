@@ -7,22 +7,19 @@
 ---
 
 ## 📬 Contacto
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-blue?style=flat&logo=gmail&logoColor=red&labelColor=white)](mailto:camipasten.2002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/camila-pastén-barros/)
+[![Gmail](https://img.shields.io/badge/Gmail-B4FF65?style=plastic&logo=gmail&logoColor=FF0000&logoWidth=40)](mailto:camipasten.2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white&logoWidth=40)](https://www.linkedin.com/in/camila-pastén-barros/)
 
 ---
 
 ## ⚡ Tecnologías más usadas
 
 ### 🚀 Lenguajes
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-blue?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-gold?style=plastic&logo=python&logoColor=0171FF&logoWidth=40&labelColor=gold)
+![R](https://img.shields.io/badge/R-blue?style=plastic&logo=r&logoColor=white&logoWidth=40&labelColor=blue)
 
 ### 🧩 Herramientas y Frameworks
-![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat&logo=powerbi)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
-![Overleaf](https://img.shields.io/badge/-Overleaf-green?style=flat&logo=latex)
+![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=plastic&logoWidth=40&logo=powerbi)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=plastic&logo=github&logoColor=white&logoWidth=40&labelColor=black)
+![Overleaf](https://img.shields.io/badge/Overleaf-green?style=plastic&logo=latex&logoColor=white&logoWidth=40)
 
-### 📘 Otras...
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-red?style=flat&logo=microsoftoffice)
-![Excel](https://img.shields.io/badge/-Excel-green?style=flat&logo=microsoftexcel)
