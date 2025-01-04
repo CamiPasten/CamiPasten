@@ -21,4 +21,3 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=plastic&logoWidth=40&logo=powerbi)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=plastic&logo=github&logoColor=white&logoWidth=40&labelColor=black)
 ![Overleaf](https://img.shields.io/badge/Overleaf-green?style=plastic&logo=latex&logoColor=white&logoWidth=40)
-
